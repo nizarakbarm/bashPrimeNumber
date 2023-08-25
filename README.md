@@ -24,11 +24,11 @@ If the inputted number is not a prime number, the output will become like this:
 
 # Test result by using number 2 to 100
 
-### 1. Result Test of primeNumber.sh by Using Number 2 to 100 at fish shell When the Script is using Bash
+### 1. Result test of primeNumber.sh by using number 2 to 100 at fish shell when the script is using Bash
 
-![Result Test of primeNumber.sh by Using Number 2 to 100 at fish shell When the Script is using Bash](testresult/image.png)
+![Result Test of primeNumber.sh by Using Number 2 to 100 at fish shell when the Script is using Bash](testresult/image.png)
 
-### 2. Result Test of primeNumber.sh by Using Number 2 to 100 at fish shell When the Script is using Bash
+### 2. Result Test of primeNumber.sh by using Number 2 to 100 at fish shell when the script is using Bash
 
-![Result Test of primeNumber.sh by Using Number 2 to 100 at Bash shell When the Script is using Bash](testresult/image-1.png)
+![Result Test of primeNumber.sh by Using Number 2 to 100 at Bash shell when the Script is using Bash](testresult/image-1.png)
 
